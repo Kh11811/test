@@ -64,11 +64,7 @@ int main(){
         hasher1.setSalt("melt");
         hasher1.setPassword(string1);
         getline(ss,string2, ',');
-        Hasher hasher2;
-        hasher2.setSalt("melt");
-        hasher2.setPassword(string2);
-        cout<<hasher2.hashPassword()<<endl;
-        bool ok=(hasher1.hashPassword()==hasher2.hashPassword());
+        bool ok=(hasher1.hashPassword()==string2);
         cout<<ok<<'\t'<<string1<<'\t'<<string2<<endl;
     }
 
