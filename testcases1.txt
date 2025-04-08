@@ -1,10 +1,10 @@
-apple,31dda1c5
+apple,c09932d50
 banana,orange
-car,5f0dcb94
+car,25b3eb670
 house,home
 cat,kat
 light,night
-sun,05f7de5a
-book,4b0f2435
+sun,398a39d70
+book,05f7de5a0
 tree,bush
 train,plain
