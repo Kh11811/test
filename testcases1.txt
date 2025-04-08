@@ -1,0 +1,10 @@
+apple,apple
+banana,orange
+car,car
+house,home
+cat,kat
+light,night
+sun,sun
+book,book
+tree,bush
+train,plain
