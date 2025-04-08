@@ -47,7 +47,7 @@ public:
 };
 
 int main(){
-    ifstream file("testcases1.txt");
+    ifstream file("testcases2.txt");
     if (!file.is_open()){
         cerr << "Error while loading file" << endl;
         return 1;
